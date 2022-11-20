@@ -1,0 +1,5 @@
+.place__text {
+  display: grid;
+  grid-gap: 26px;
+  grid-template-rows: max-content;
+}
